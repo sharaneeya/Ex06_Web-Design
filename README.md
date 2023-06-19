@@ -16,6 +16,8 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
+<html>
 <head>
 <title>JavaScript program to display the result of a student</title>
 <script type="text/javascript">
@@ -63,6 +65,7 @@ Click me to Find Grade Result of a Student
 </h1>
 </body>
 </html>
+```
 
 
 ## OUTPUT
